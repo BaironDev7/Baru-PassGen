@@ -1,6 +1,6 @@
-# Generador de Contraseñas
+# Baru PassGen - Generador de Contraseñas
 
-Este proyecto es un **Generador de Contraseñas** desarrollado con **Next.js** y **JavaScript**. Permite a los usuarios generar contraseñas seguras personalizadas con opciones como longitud variable, inclusión de números y símbolos. Es una herramienta útil para aquellos que necesitan contraseñas aleatorias fuertes y fácilmente personalizables.
+Este proyecto es un **Generador de Contraseñas** desarrollado con **Next.js** y **TypeScript**. Permite a los usuarios generar contraseñas seguras personalizadas con opciones como longitud variable, inclusión de números y símbolos. Es una herramienta útil para aquellos que necesitan contraseñas aleatorias fuertes y fácilmente personalizables.
 
 ## Descripción
 
